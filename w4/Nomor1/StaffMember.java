@@ -1,3 +1,4 @@
+package Nomor1;
 //********************************************************************
 // StaffMember.java Author: Lewis/Loftus
 //

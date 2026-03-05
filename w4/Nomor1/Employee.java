@@ -1,3 +1,4 @@
+package Nomor1;
 //********************************************************************
 // Employee.java Author: Lewis/Loftus
 //

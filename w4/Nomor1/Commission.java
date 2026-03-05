@@ -1,4 +1,4 @@
-
+package Nomor1;
 public class Commission extends Hourly
 {
     private double totalSales;
